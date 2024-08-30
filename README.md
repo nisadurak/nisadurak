@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**nisadurak/nisadurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Merhaba 👋, Ben [Nisa DURAK]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Yazılım geliştirmeye olan ilgimi, web teknolojileri ve yapay zeka alanlarında geliştirdiğim projelerle sürdürüyorum. Kullanıcı deneyimini ön planda tutarak, hem görsel hem de işlevsel açıdan güçlü web uygulamaları tasarlıyor ve hayata geçiriyorum. Aynı zamanda, makine öğrenmesi ve derin öğrenme algoritmaları ile yenilikçi çözümler üretiyorum.
+
+### 🛠️ Kullandığım Teknolojiler:
+- **Programlama Dilleri:** Python, JavaScript, HTML, CSS
+- **Framework ve Kütüphaneler:** Django, TensorFlow, OpenCV
+- **İlgi Alanlarım:** Web Geliştirme, Yapay Zeka, Makine Öğrenmesi
+
+### 📂 Öne Çıkan Çalışmalar:
+- **[Kişisel Blog Platformu](#):** Modern web standartlarına uygun, esnek ve kolayca özelleştirilebilen bir blog platformu.
+- **[Anlık Mesajlaşma Uygulaması](#):** Django tabanlı, gerçek zamanlı mesajlaşma özelliklerine sahip bir web uygulaması.
+- **[Yüz Tanıma Sistemi](#):** OpenCV ve TensorFlow ile geliştirilmiş, yüz tanıma algoritmalarını içeren bir yapay zeka projesi.
+
+💬 Bana ulaşmak için: [E-posta](mailto:nisa.drk06@gmail.com)
+

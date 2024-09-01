@@ -12,7 +12,7 @@ Yazılım geliştirmeye olan ilgimi, web teknolojileri ve yapay zeka alanlarınd
 ### 📂 Öne Çıkan Çalışmalar:
 - **[Kişisel Blog Platformu](#):** Modern web standartlarına uygun, esnek ve kolayca özelleştirilebilen bir blog platformu.
 - **[Anlık Mesajlaşma Uygulaması](#):** Django tabanlı, gerçek zamanlı mesajlaşma özelliklerine sahip bir web uygulaması.
-- **[Yüz Tanıma Sistemi](#):** OpenCV ve TensorFlow ile geliştirilmiş, yüz tanıma algoritmalarını içeren bir yapay zeka projesi.
+- **[Yüz Tanıma Sistemi](#):** OpenCV ve face detection and recognition kütüphanesi ile geliştirilmiş, yüz tanıma algoritmalarını içeren bir yapay zeka projesi.
 
 💬 Bana ulaşmak için: [E-posta](mailto:nisa.drk06@gmail.com)
 

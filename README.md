@@ -10,7 +10,7 @@ Yazılım geliştirmeye olan ilgimi, web teknolojileri ve yapay zeka alanlarınd
 - **İlgi Alanlarım:** Web Geliştirme, Yapay Zeka, Makine Öğrenmesi
 
 ### 📂 Öne Çıkan Çalışmalar:
-- **[Kişisel Blog Platformu](#):** Modern web standartlarına uygun, esnek ve kolayca özelleştirilebilen bir blog platformu.
+
 - **[Anlık Mesajlaşma Uygulaması](#):** Django tabanlı, gerçek zamanlı mesajlaşma özelliklerine sahip bir web uygulaması.
 - **[Yüz Tanıma Sistemi](#):** OpenCV ve face detection and recognition kütüphanesi ile geliştirilmiş, yüz tanıma algoritmalarını içeren bir yapay zeka projesi.
 

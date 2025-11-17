@@ -9,10 +9,7 @@ Yazılım geliştirmeye olan ilgimi, web teknolojileri ve yapay zeka alanlarınd
 - **Framework ve Kütüphaneler:** Django, TensorFlow, OpenCV, PyTorch
 - **İlgi Alanlarım:** Makine Öğrenmesi, Derin Öğrenme, Web Geliştirme
 
-### 📂 Öne Çıkan Çalışmalar:
 
-- **[Anlık Mesajlaşma Uygulaması](#):** Django tabanlı, gerçek zamanlı mesajlaşma özelliklerine sahip bir web uygulaması.
-- **[Yüz Tanıma Sistemi](#):** OpenCV ve face detection and recognition kütüphanesi ile geliştirilmiş, yüz tanıma algoritmalarını içeren bir yapay zeka projesi.
 
 💬 Bana ulaşmak için: [E-posta](mailto:nisa.drk06@gmail.com)
 

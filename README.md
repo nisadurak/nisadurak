@@ -7,7 +7,7 @@ Yazılım geliştirmeye olan ilgimi, web teknolojileri ve yapay zeka alanlarınd
 ### 🛠️ Kullandığım Teknolojiler:
 - **Programlama Dilleri:** Python, JavaScript, HTML, CSS, Java, C, C#
 - **Framework ve Kütüphaneler:** Django, TensorFlow, OpenCV, PyTorch
-- **İlgi Alanlarım:** Web Geliştirme, Yapay Zeka, Makine Öğrenmesi, Mobil Geliştirme
+- **İlgi Alanlarım:** Makine Öğrenmesi, Derin Öğrenme, Web Geliştirme
 
 ### 📂 Öne Çıkan Çalışmalar:
 
